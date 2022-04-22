@@ -22,3 +22,22 @@
     border-radius: 0;
 }
 
+#search-city{
+    width:80%;
+}
+
+#search-button-icon{
+    width:15px;
+    display:inline-block;
+}
+
+#current-weather {
+    padding-left: 15px;
+}
+
+#clear-storage{
+    color:grey;
+    text-decoration: none;
+    font-size:.75em;
+    margin: .5em 0em 0em .5em;
+}
