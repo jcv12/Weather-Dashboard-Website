@@ -41,3 +41,29 @@
     font-size:.75em;
     margin: .5em 0em 0em .5em;
 }
+
+.weather-card{
+    width: 9rem;
+    background-color: #0275d8;
+    color: white;
+    text-align: center;
+}
+
+.uv-favorable{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+}
+
+.uv-moderate{
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+}
+
+.uv-severe{
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
